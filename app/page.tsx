@@ -10,7 +10,7 @@ export default function Home() {
 
   return (
     <div className="flex flex-col min-h-screen">
-      <h2 className="mt-2 text-center">NOS2 Custom Calculator</h2>
+      <h2 className="mt-2 text-center">GUS1 Custom Calculator</h2>
       <button
         onClick={() => switchTab(4)}
         className={`text-lg rounded-lg mb-2 mx-2 p-4 ${

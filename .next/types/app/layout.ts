@@ -1,4 +1,4 @@
-// File: /Users/jitu/Customcal NOS2/app/layout.tsx
+// File: /Users/jitu/Customcal GUS1/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
